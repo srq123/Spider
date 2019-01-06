@@ -1,0 +1,6 @@
+items.py:需要爬取的内容的分类
+pipelines.py：程序运行的管道
+settings.py：程序运行需要的配置
+_init_.py：初始化程序
+pcblog.py：实现爬取功能的具体代码
+main.py：将各函数综合运行
